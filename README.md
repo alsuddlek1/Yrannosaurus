@@ -18,7 +18,7 @@
 
 ## 아키텍처🧱
 
-![systemarchitecture](/uploads/f4f30fac0e2dc0845601af00bea6fd20/systemarchitecture.png)
+![systemarchitecture](/images/readme/systemarchitecture.png)
 
 ## 기술스택 🛠️
 
@@ -56,37 +56,38 @@
 
 <br />
 <b>공룡 이론 페이지</b>
-![dinosaur](/uploads/eafa3a35f20ce5871ae103ce84573fea/dinosaur.png)
-![dinosaur_location](/uploads/4128278207343754338b5f0a0f3ddd0d/dinosaur_location.png)
-![dinosaur_detail](/uploads/46c9bedda571f82be813fbaef56460c3/dinosaur_detail.png)
+
+![dinosaur](/images/readme/dinosaur.png)
+![dinosaur_location](/images/readme/dinosaur_location.png)
+![dinosaur_detail](/images/readme/dinosaur_detail.png)
 
 - 공룡 상세 정보 보여주기
 - 공룡 위치별 분포도 보여주기
 - 공룡 검색 기능 구현
 
-![korea_dinosaur](/uploads/356c7032c90b70c63ad9a821e95eb0d5/korea_dinosaur.png)
-![koread_dino_detail](/uploads/d04cb981784802083d32e7b199090a95/koread_dino_detail.png)
+![korea_dinosaur](/images/readme/korea_dinosaur.png)
+![koread_dino_detail](/images/readme/koread_dino_detail.png)
 
 - 한국의 공룡 정보 보여주기
 - CLOVA api를 이용한 `TTS` 도입 ( 재생 버튼 누르면 사운드 재생)
   <br />
   <b>고성 페이지</b>
   고성 메인 페이지
-  ![expo](/uploads/6a2e99d3c691de398c6e6008ff1151e7/expo.png)
+  ![expo](/images/readme/expo.png)
 
 - 고성 공룡엑스포에 대한 기본 정보 제공
 - css animation을 통해 `동적인 페이지` 제공
 
-![course](/uploads/1b3636a4b8d77576e83d1192dbd0f296/course.png)
+![course](/images/readme/course.png)
 
 - 엑스포 내 `추천 코스 표시`
 - `현재 위치`를 제공해, 종이 지도로 길찾기의 불편함을 해소
 
-![convenient](/uploads/4b97b4990e35ee09587f2ec554a6c9b1/convenient.png)
+![convenient](/images/readme/convenient.png)
 
 - 엑스포 내 `편의시설 위치 제공`
 
-![gosung](/uploads/03e4b63517f9a8a5c03b09269301a5b4/gosung.png)
+![gosung](/images/readme/gosung.png)
 
 - 고성 공룡엑스포 방문객을 위한 `고성 맛집`, `숙박`, `여행지` 추천
 - 카테고리에 따른 다른 마커 제공
@@ -96,12 +97,12 @@
 <br />
 고성 페이지는 반응형으로 별도 제작
 <br />
-![expo_mobile](/uploads/c37ba3924cc4cb9bc146f64d2013cee9/expo_mobile.png)
+![expo_mobile](/images/readme/expo_mobile.png)
 <br />
 
 - 엑스포 모바일 페이지
   <br />
-  ![gosung_mobile](/uploads/d97e66e8c5348eff6ea8b58cd21ef9ca/gosung_mobile.png)
+  ![gosung_mobile](/images/readme/gosung_mobile.png)
   <br />
 - 고성 모바일 페이지
 
